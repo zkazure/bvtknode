@@ -68,8 +68,6 @@ like:
 
 **Run the flow:**
 
-> You can get the files used afterward [here](./data/particle_mesh_stones)
-
 1. you need to change the `Update Mode` to `Update All Automatically` 
 in the `Inspect` tab.
 
@@ -109,6 +107,8 @@ Then choose `Rendered` or `Material Preview`.
 
 **Example:**
 
+> you can get the example data [here](https://1drv.ms/f/c/de361a567b1f3a6e/EuzUGDrGuQtHhkPXGU46B0sBTIaD2zBASL5JHKP4NBtMVA?e=ZhCpTe)
+
 ![000-100_stones_0001-0401](./static/videos/000-100_stones_0001-0401.mkv)
 
 ## TODO
@@ -123,7 +123,6 @@ Here is the source [repo](https://github.com/tkeskita/BVtkNodes).
 The old one is the official template, so we can not find the node about vtk. 
 2. `Shift+A` to add a new node. 
 The official tutorial provide a vti file. 
-you can get from [here](./data/head.vti)
 
 ### The node procedure
 ![image1](./static/images/procedure.png)
