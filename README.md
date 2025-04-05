@@ -21,7 +21,6 @@
 *install error with blender4.2 on windows:*
 
 ``` shell
-& '/path/blender-X.Y/X.Y/python/bin/python3.Z -m pip install vtk==9.2.6
 & 'C:\Program Files\Blender Foundation\Blender\4.2\python\bin\python.exe' -m pip install vtk==9.2.6 --target 'C:\Program Files\Blender Foundation\Blender\4.2\python\lib\site-packages'
 ```
 
@@ -41,6 +40,12 @@ like:
 ```
 
 4. [BVtkNodes](https://github.com/tkeskita/BVtkNodes)
+
+- Download the BVTKNode repository add-on as a `.zip` file.
+
+- Start Blender, go to `Edit` –> `Preferences` –> `Add-ons` –> `Install` –> open the add-on zip file.
+
+- Activate the `BVTKNodes` add-on in Preferences by clicking on the checkbox. Add-on is located in Node category, “Community” level of Blender add-ons.
 
 **Start to build:**
 
