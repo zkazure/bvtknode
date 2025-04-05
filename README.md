@@ -109,7 +109,7 @@ Then choose `Rendered` or `Material Preview`.
 
 > you can get the example data [here](https://1drv.ms/f/c/de361a567b1f3a6e/EuzUGDrGuQtHhkPXGU46B0sBTIaD2zBASL5JHKP4NBtMVA?e=ZhCpTe)
 
-![000-100_stones_0001-0401](./static/videos/000-100_stones_0001-0401.mkv)
+![exampleVideo](https://youtu.be/qHN721bcZJ0)
 
 ## TODO
 
