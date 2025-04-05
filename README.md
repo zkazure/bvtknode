@@ -109,7 +109,9 @@ Then choose `Rendered` or `Material Preview`.
 
 > you can get the example data [here](https://1drv.ms/f/c/de361a567b1f3a6e/EuzUGDrGuQtHhkPXGU46B0sBTIaD2zBASL5JHKP4NBtMVA?e=ZhCpTe)
 
-[![exampleVideo](./static/images/stonesVideo.png)](https://youtu.be/qHN721bcZJ0)
+Blow is an example video:
+
+[![exampleVideo](https://img.youtube.com/vi/qHN721bcZJ0/0.jpg)](https://www.youtube.com/watch?v=qHN721bcZJ0)
 
 ## TODO
 
