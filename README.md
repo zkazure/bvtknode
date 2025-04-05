@@ -12,20 +12,20 @@
 
 2. Install VTK
 
-**General:**
+*general:*
 
 ``` shell
 /path/blender-X.Y/X.Y/python/bin/python3.Z -m pip install vtk==9.2.6
 ```
 
-**Install Error with blender4.2 on Windows:**
+*install error with blender4.2 on windows:*
 
 ``` shell
 & '/path/blender-X.Y/X.Y/python/bin/python3.Z -m pip install vtk==9.2.6
 & 'C:\Program Files\Blender Foundation\Blender\4.2\python\bin\python.exe' -m pip install vtk==9.2.6 --target 'C:\Program Files\Blender Foundation\Blender\4.2\python\lib\site-packages'
 ```
 
-2. Install VTK and some Error on Linux and may be on windows. 
+3. Install VTK and some Error on Linux and may be on windows. 
 
 edit `path/blender-X.Y/X.Y/python/lib/pythonZ/site-packages/vtkmodules/all.py`,
 like:
@@ -40,7 +40,7 @@ like:
 # from vtkmodules.vtkRenderingMatplotlib import *
 ```
 
-2. [BVtkNodes](https://github.com/tkeskita/BVtkNodes)
+4. [BVtkNodes](https://github.com/tkeskita/BVtkNodes)
 
 **Start to build:**
 
